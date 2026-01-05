@@ -15,7 +15,7 @@ JavaScript, Plotly, and D3.js are used to create a horizontal bar chart for disp
 
 ![Figure 1](https://github.com/davidhyongae2/bacteria/blob/main/Figure1.png).
 
-The bubble chart visually represents the diversity of bacteria species classified by Operational Taxonomic Units (OTUs). Each sample is characterized by attributes including ID, ethnicity, gender, location, age, and frequency, while also demonstrating the overlap of OTUs at the sample level.
+The bubble chart visually represents the diversity of species classified by Operational Taxonomic Units (OTUs). Each sample is characterized by attributes including ID, ethnicity, gender, location, age, and frequency, while also demonstrating the overlap of OTUs at the sample level.
 
 ![Figure 2a](https://github.com/davidhyongae2/bacteria/blob/main/Figure2a.png)
 
@@ -31,6 +31,6 @@ A gauge chart effectively illustrates the frequency of volunteers who wash their
 3. One suggestion is to utilize a control dataset for comparison purposes. This could enhance our understanding of biodiversity within the human population through multiple sample analyses or by focusing on a specific categorical study.
 
 ## Reference
-Hulcr, J. et al. (2012). A Jungle in There: Bacteria in Belly Buttons Are Highly Diverse but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
+Hulcr, J. et al. (2012). A Jungle in There: Bacteria in Belly Buttons Are Highly Diverse but Predictable. http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 
-UC Berkeley Coding Bootcamp (2022). Bacteria analysis example [Courseware]. Codingbootcamp.berkeley.edu
+UC Berkeley Coding Bootcamp. (2022). Bacteria analysis example [Courseware]. Codingbootcamp.berkeley.edu
