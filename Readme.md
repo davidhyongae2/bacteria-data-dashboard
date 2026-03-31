@@ -8,7 +8,7 @@ This JavaScript application effectively counts Operational Taxonomic Units (OTUs
 Program language: JavaScript, plotly, d3.js.
 
 ## Data
-JSON data from http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
+JSON data from http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/ (Hulcr, 2012).
 
 ## Results
 JavaScript, Plotly, and D3.js are used to create a horizontal bar chart for displaying human volunteers (OTUs) with D3 dropdown functions.
