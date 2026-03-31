@@ -1,5 +1,5 @@
 ## Project
-Bacteria Counting Dashboard 
+Bacteria Counting Dashboard ("UC Berkeley Coding Bootcamp," 2022).
 
 ## Overview
 This JavaScript application effectively counts Operational Taxonomic Units (OTUs), highlighting the similarity among genera. By leveraging JSON and D3.js, it filters volunteer data to prominently display the ten bacterial species along with their respective OTUs. Users can effortlessly hover over the bar chart to gain insightful details about each species.
